@@ -1,0 +1,40 @@
+salomon,15,14,tierra
+mili,17,25,hielo
+goku,20,20,fuego
+sasuke,14,15,fuego
+jaimico,4,15,tierra
+angg,20,15,hielo
+shogun,4,10,hielo
+nova,13,15,electricidad
+alfaro,22,7,electricidad
+darth tiranus,23,8,fuego
+spaidy,14,21,electricidad
+snoke,21,3,hielo
+dimbag,6,10,tierra
+senna,5,12,tierra
+thanos,24,19,hielo
+rogers,25,20,electricidad
+master chief,15,20,tierra
+niel peart,5,6,electricidad
+rex,9,12,fuego
+anakin,26,18,fuego
+calamardo,10,13,hielo
+pain,20,23,fuego,
+amlo,3,4,tierra
+jobs,10,9,tierra
+cristiano ronaldo,19,20,fuego
+ulises,4,6,tierra
+undertaker,10,23,hielo
+messi,20,20,tierra
+ronaldo,13,9,tierra
+luisito,5,9,fuego
+hereje,15,10,fuego
+jhon f.kenedy,11,11,tierra
+galvan,8,9,hielo
+chamuca,1,9,fuego
+richtofen,10,11,fuego
+luke cage,20,21,tierra
+white panther,12,14,hielo
+iron fist,14,16,fuego
+misterion,10,10,hielo
+venom,20,13,tierra
